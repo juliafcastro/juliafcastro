@@ -11,4 +11,4 @@
 ![CSS3](    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br/>
 
-Estudante de Engenharia de Software, iniciando na programação e desenvolvendo atualmente os primeiros códigos!
+Estudante de Engenharia de Software, foco em desenvolvimento web e procurando me aprimorar cada vez mais!

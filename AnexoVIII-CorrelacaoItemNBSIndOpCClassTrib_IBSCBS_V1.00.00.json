@@ -1,0 +1,74 @@
+[
+  {
+    "itemLC": "01.01",
+    "descricaoItem": "Análise e desenvolvimento de sistemas",
+    "codigo": "1.1502.10.00",
+    "descricao": "Serviços de desenvolvimento de software sob encomenda",
+    "psOnerosa": "S",
+    "adqExterior": "N",
+    "indop": "100301",
+    "localIncidencia": "Destino",
+    "cClassTrib": "000001",
+    "nomecClassTrib": "Operação com Incidência Integral"
+  },
+  {
+    "itemLC": "01.02",
+    "descricaoItem": "Programação de aplicativos",
+    "codigo": "1.1502.10.00",
+    "descricao": "Serviços de desenvolvimento de software sob encomenda",
+    "psOnerosa": "S",
+    "adqExterior": "N",
+    "indop": "100301",
+    "localIncidencia": "Destino",
+    "cClassTrib": "000001",
+    "nomecClassTrib": "Operação com Incidência Integral"
+  },
+  {
+    "itemLC": "02.01",
+    "descricaoItem": "Serviços de tecnologia da informação",
+    "codigo": "-",
+    "descricao": "-",
+    "psOnerosa": "S",
+    "adqExterior": "-",
+    "indop": "100302",
+    "localIncidencia": "Origem",
+    "cClassTrib": "000002",
+    "nomecClassTrib": "Operação com Suspensão"
+  },
+  {
+    "itemLC": "03.01",
+    "descricaoItem": "Consultoria em tecnologia",
+    "codigo": "1.1502.20.00",
+    "descricao": "Serviços de consultoria em tecnologia da informação",
+    "psOnerosa": "N",
+    "adqExterior": "S",
+    "indop": "100303",
+    "localIncidencia": "Destino",
+    "cClassTrib": "000001",
+    "nomecClassTrib": "Operação com Incidência Integral"
+  },
+  {
+    "itemLC": "04.01",
+    "descricaoItem": "Manutenção de sistemas",
+    "codigo": "",
+    "descricao": "",
+    "psOnerosa": "S",
+    "adqExterior": "N",
+    "indop": "",
+    "localIncidencia": "",
+    "cClassTrib": "000003",
+    "nomecClassTrib": "Operação com Redução"
+  },
+  {
+    "itemLC": "05.01",
+    "descricaoItem": "Treinamento em TI",
+    "codigo": "1.1503.00.00",
+    "descricao": "Serviços de treinamento em informática",
+    "psOnerosa": "-",
+    "adqExterior": "-",
+    "indop": "100305",
+    "localIncidencia": "Destino",
+    "cClassTrib": "000004",
+    "nomecClassTrib": "Operação com Diferimento"
+  }
+]

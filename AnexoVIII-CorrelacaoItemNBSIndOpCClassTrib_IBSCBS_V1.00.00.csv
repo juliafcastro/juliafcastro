@@ -1,0 +1,7 @@
+Item LC 116,Descrição Item,NBS,DESCRIÇÃO NBS,PS ONEROSA? (S/N),ADQ EXTERIOR? (S/N),INDOP,Local incidência IBS,cClassTrib,nome cClassTrib
+01.01,Análise e desenvolvimento de sistemas,1.1502.10.00,Serviços de desenvolvimento de software sob encomenda,S,N,100301,Destino,000001,Operação com Incidência Integral
+01.02,Programação de aplicativos,1.1502.10.00,Serviços de desenvolvimento de software sob encomenda,S,N,100301,Destino,000001,Operação com Incidência Integral
+02.01,Serviços de tecnologia da informação,-,-,S,-,100302,Origem,000002,Operação com Suspensão
+03.01,Consultoria em tecnologia,1.1502.20.00,Serviços de consultoria em tecnologia da informação,N,S,100303,Destino,000001,Operação com Incidência Integral
+04.01,Manutenção de sistemas,,,S,N,,,000003,Operação com Redução
+05.01,Treinamento em TI,1.1503.00.00,Serviços de treinamento em informática,-,-,100305,Destino,000004,Operação com Diferimento

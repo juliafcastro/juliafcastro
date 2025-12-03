@@ -1,0 +1,16 @@
+{
+  "name": "csv-to-json-converter",
+  "version": "1.0.0",
+  "description": "Convert CSV to JSON for IBS/CBS tax data",
+  "main": "convert.js",
+  "type": "module",
+  "scripts": {
+    "convert": "node convert.js"
+  },
+  "keywords": ["csv", "json", "converter", "ibs", "cbs"],
+  "author": "Julia Castro",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
